@@ -1,4 +1,4 @@
-//Problem C. El sensor diferente
+//Problem C. El sensor diferente   
 #include <bits/stdc++.h>
 using namespace std;
 int main()
