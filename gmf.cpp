@@ -1,4 +1,4 @@
-//Problem G. Mezclador Frase-Palabra
+//Problem G. Mezclador Frase-Palabra  
 #include <bits/stdc++.h>
 using namespace std;
 
